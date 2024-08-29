@@ -1,0 +1,36 @@
+.details p{
+    color: var(--secondary-color);
+}
+.hidden {
+    display: none;
+}
+.details p{
+    color: var(--secondary-color);
+}
+.toggle-text {
+    display: block;
+    margin-top: 10px;
+    color: var(--primary-color);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.toggle-text:hover {
+    text-decoration: underline;
+}
+
+#show-more {
+    display: block;
+}
+
+#show-less {
+    display: none;
+}
+
+#more-text:not(.hidden) ~ #show-more {
+    display: none;
+}
+
+#more-text.hidden ~ #show-less {
+    display: none;
+}
