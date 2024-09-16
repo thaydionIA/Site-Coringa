@@ -25,7 +25,7 @@ const serviceContent1 = `
     <p><strong>Detalhe 1:</strong> Descrição detalhada do primeiro aspecto do Serviço 1.</p>
     <p><strong>Detalhe 2:</strong> Descrição detalhada do segundo aspecto do Serviço 1.</p>
     <p><strong>Detalhe 3:</strong> Descrição detalhada do terceiro aspecto do Serviço 1.</p><br>
-    <a href="https://example.com/marcar-consulta" class="button">Marcar Consulta</a>
+    <a href="https://example.com/Mais-informações" class="button">Mais Informações</a>
 </div>
 `;
 
@@ -37,7 +37,7 @@ const serviceContent2 = `
     <p><strong>Detalhe 1:</strong> Descrição detalhada do primeiro aspecto do Serviço 2.</p>
     <p><strong>Detalhe 2:</strong> Descrição detalhada do segundo aspecto do Serviço 2.</p>
     <p><strong>Detalhe 3:</strong> Descrição detalhada do terceiro aspecto do Serviço 2.</p><br>
-    <a href="https://example.com/marcar-consulta" class="button">Marcar Consulta</a>
+    <a href="https://example.com/Mais-informações" class="button">Mais Informações</a>
 </div>
 `;
 
@@ -49,7 +49,7 @@ const serviceContent3 = `
     <p><strong>Detalhe 1:</strong> Descrição detalhada do primeiro aspecto do Serviço 3.</p>
     <p><strong>Detalhe 2:</strong> Descrição detalhada do segundo aspecto do Serviço 3.</p>
     <p><strong>Detalhe 3:</strong> Descrição detalhada do terceiro aspecto do Serviço 3.</p><br>
-    <a href="https://example.com/marcar-consulta" class="button">Marcar Consulta</a>
+    <a href="https://example.com/Mais-informações" class="button">Mais Informações</a>
 </div>
 `;
 
